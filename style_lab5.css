@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #ffffff;
+    background-color: rgb(153, 153, 138);
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/950/794/large_2x/modern-geometric-luxury-card-template-for-business-or-presentation-with-golden-lines-on-a-dark-blue-background-vector.jpg);
+    
+}
+label{
+    display: block;
+}
+input{
+    width: 30%;
+}
+select{
+    width: 20%;
+}
+textarea{
+    width: 50%;
+    height: 100 px;
+}
